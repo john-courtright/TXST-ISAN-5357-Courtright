@@ -7,4 +7,5 @@ All notebooks contain a direct link to the source data.
 
 Each Assignment folder has a dedicated README with information about that assignment's data sources and the general concepts explored in the assignment.
 
-Assignment 1: Creating simple programs for banking, interest calculation, hotel guest check-in (very simple!!)
+Assignment 1: Creating simple programs for banking, interest calculation, and hotel guest check-in (very simple!!)
+Assignment 2: Break-even profit simulation based on user-inputted cost and revenue parameters
